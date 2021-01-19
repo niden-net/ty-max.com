@@ -1,0 +1,7 @@
+jekyll:
+    image: jekyll/jekyll:latest
+    command: jekyll serve --force_polling --verbose
+    ports:
+        - 4006:4000
+    volumes:
+        - .:/srv/jekyll
