@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: vremenagroteskbook
+font link: https://www.fontspring.com/fonts/abstrkt/vremena?utm_source=fontsquirrel.com&utm_medium=download_link&utm_campaign=vremena-grotesk#firstfreeproduct
+font author: ABSTRKT
+font author site: 
+Slogan Font: SpaceMono-Regular.ttf
+
+icon designer: Chanut is Industries
+icon designer link: /chanut-is
+        
+{"bg":"#064929","icon":"#4BBA5B","font":"#FFFFFF","slogan":"#ffffff"}
+      

@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html lang="en">
+{% include head.html %}
+<body>
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <section id="main">
+            <header>
+                <p>
+                    <img src="/assets/images/vector/default.svg"
+                        alt="{{ site.data.settings.title }}"
+                        title="{{ site.data.settings.title }}" />
+                </p>
+            </header>
+
+            <hr />
+            <footer>
+                <ul class="icons">
+                    <li>
+                        <a href="mailto:{{ site.data.settings.email }}"
+                           class="icon solid fa-envelope">
+                            Contact
+                        </a>
+                    </li>
+                </ul>
+            </footer>
+        </section>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <ul class="copyright">
+                <li>&copy; {{ site.data.settings.title }}</li>
+            </ul>
+        </footer>
+    </div>
+</body>
+</html>
